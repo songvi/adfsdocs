@@ -1,7 +1,13 @@
-# Integarate OAuth2 into Lavarel Framework to work with ADFS
+*****
+Integarate OAuth2 into Lavarel Framework to work with ADFS
+*****
 
-## Requirements
+Requirements
+##
 
-### Active Directory
-### ADFS 3.0
-### Certificate Authority (optional)
+Active Directory
+*************
+ADFS 3.0
+*************
+Certificate Authority (optional)
+*************
